@@ -1,3 +1,3 @@
 # Calculating Snow Volume of the Bogus Basin Area
 ## Site Area
-![Map] (Figures/Map.jpg)
+![Map](Figures/Map.jpg)
