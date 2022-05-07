@@ -7,3 +7,7 @@ This figure shows the location where the snow volume was calculated.
 ![NDSIMap](Figures/NDSIMap.png)
 
 This figure shows the NDSI values across the Bogus Basin area calculated from Landsat 8 images. 
+## Figure 3: Snow Volume Change
+![Volume](Figures/Volume.png)
+
+Using the NDSI values greater than 0.4, an area was determined and multiplied by the snow depth recorded from the Bogus Basin SNOTEL site in order to calculate snow volume. 
